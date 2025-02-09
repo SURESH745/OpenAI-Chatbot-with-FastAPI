@@ -29,14 +29,15 @@ This is an **AI-powered chatbot** built with **FastAPI** that integrates OpenAI'
 - **Version Control:** Git & GitHub
 
 ---
-📞 Contact & Connect
-🌐 Portfolio: sureshgongali.netlify.app
-🐙 GitHub: github.com/SureshGongali
-🔗 LinkedIn: linkedin.com/in/SureshGongali
-✉️ Email: sureshgongali@example.com
-📱 Phone: +91 7671903261
+## 📞 Contact & Connect  
 
-💡 Let's Connect! I'm open to collaboration, networking, and exciting opportunities. Feel free to reach out! 🚀
+🌍 **Portfolio:** [![Website](https://img.shields.io/badge/Visit-Portfolio-blue?style=flat&logo=google-chrome)](https://sureshgongali.netlify.app/)  
+🐙 **GitHub:** [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/SureshGongali)  
+🔗 **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/SureshGongali)  
+✉️ **Email:** [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:sureshgongali@example.com)  
+📱 **Phone:** [![Phone](https://img.shields.io/badge/Call-7671903261-brightgreen?style=flat&logo=whatsapp)](tel:+917671903261)  
+
+💡 **Let's Connect!** I'm always open to **collaboration, networking, and exciting opportunities**. Feel free to reach out! 🚀  
 
 ## 🚀 Getting Started
 ## 🔖 Hashtags  
