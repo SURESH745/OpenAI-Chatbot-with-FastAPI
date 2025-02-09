@@ -29,6 +29,14 @@ This is an **AI-powered chatbot** built with **FastAPI** that integrates OpenAI'
 - **Version Control:** Git & GitHub
 
 ---
+📞 Contact & Connect
+🌐 Portfolio: sureshgongali.netlify.app
+🐙 GitHub: github.com/SureshGongali
+🔗 LinkedIn: linkedin.com/in/SureshGongali
+✉️ Email: sureshgongali@example.com
+📱 Phone: +91 7671903261
+
+💡 Let's Connect! I'm open to collaboration, networking, and exciting opportunities. Feel free to reach out! 🚀
 
 ## 🚀 Getting Started
 ## 🔖 Hashtags  
